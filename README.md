@@ -36,6 +36,6 @@ c. Displays the time in HH:MM:SS format via UART.
 
 Usage:
 Connect the DS1307 RTC to the microcontroller via I2C.
-Open a serial terminal (e.g., PuTTY, Tera Term) at 9600 baud.
+Open a serial terminal (PuTTY) at 9600 baud.
 Observe the real-time clock updating every second.
 
